@@ -17,5 +17,6 @@ The results have been tabulated in the File Results for all the grid runs.
 - Convolutional Neural Networks performed the worst because of overfitting
 
 - LDA performed well for data that is well represented in the data
-- Guided LDA topics are similar to LDA
-- 40 optimum clusters are idetified for clustering approach
+- Guided LDA topics are no better than LDA
+- 40 optimum clusters are idetified for clustering approach which led to 20 topics
+- Identified topics are better than Guided LDA and match the LDA approach
