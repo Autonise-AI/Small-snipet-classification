@@ -1,5 +1,7 @@
 #Topics Explored by us
 
+- LDA
+- Guided LDA
 - Convolutional Neural Networks for Classification
 - FastText for Classification
 - Naive Bayes for Classification
